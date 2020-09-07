@@ -8,7 +8,6 @@ from keras.models import load_model
 import sys
 from flask_restx import Api, Resource, fields
 
-
 use = hub.load(
     "https://tfhub.dev/google/universal-sentence-encoder-multilingual-large/3")
 
