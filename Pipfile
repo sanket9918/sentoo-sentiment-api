@@ -30,4 +30,4 @@ Keras = "==2.4.3"
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"
